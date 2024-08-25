@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://vigneshthedeveloper.github.io/reactapp"
+}
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
